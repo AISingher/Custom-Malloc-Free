@@ -1,0 +1,7 @@
+testCaseE()
+Mallocs char pointers from 0-3000 and frees them after. Then does the same action again. 
+Reason: shows how memory can be malloc'd and free'd more than one time.
+
+testCaseF()
+Check if malloc will actually work
+
